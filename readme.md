@@ -92,4 +92,10 @@ Missing Features: As mentioned, there are several features like updating plants,
 
 Accessibility Concerns: I did not have the time to check the colors of the app in a contrast checker or assess my app for accessibility. This is another aspect that I would like to focus on during my updates. 
 
-
+## Screenshots
+<p float="left">
+  <img src="images/main-menu.png" width="200" />
+  <img src="images/gardens-view.png" width="200" />
+  <img src="images/plants-view.png" width="200" />
+  <img src="images/users-view.png" width="200" />
+</p>
