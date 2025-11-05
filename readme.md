@@ -92,23 +92,4 @@ Missing Features: As mentioned, there are several features like updating plants,
 
 Accessibility Concerns: I did not have the time to check the colors of the app in a contrast checker or assess my app for accessibility. This is another aspect that I would like to focus on during my updates. 
 
-## File Structure
-
-garden_manager/
-├── views/
-│   ├── plants_tab.py
-│   ├── gardens_tab.py
-│   └── users_tab.py
-|   ├── view.py
-├── bll/
-│   ├── bll.py
-├── dal/
-│   ├── dal.py
-|   ├── gardens_dal.py
-|   ├── plants_dal.py
-├── .env
-├── main.py
-├── requirements.txt
-└── README.md
-
 
