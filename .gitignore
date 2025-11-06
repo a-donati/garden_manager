@@ -12,7 +12,6 @@ dist/
 build/
 
 # SQL files / database dumps
-*.sql
 *.db
 
 # Logs

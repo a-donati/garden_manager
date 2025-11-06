@@ -47,8 +47,13 @@ DB_USER=your_username
 DB_PASSWORD=your_password
 DB_DATABASE=garden_manager_db
 
-### How to Run the App
+### Setting Up the Database
+- Install MySQL if you haven’t already.
+- Run the following command in your terminal `mysql -u <your_mysql_username> -p garden < sql/GardenDB.sql`
+- Replace <your_mysql_username> with your MySQL username. garden is the database name (must match the one in .env).
+path/to/GardenDB.sql is the location of the SQL file on your system.
 
+### How to Run the App
 - Configure the .env File:
     Update the .env file in the project directory with your database credentials.
 - Ensure that dependencies are installed
